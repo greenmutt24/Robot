@@ -1,0 +1,6 @@
+This is a continuation of my independent study,
+it currently has three goals
+1) make usart send and accept more then one char at a time
+2) to add and lcd display that printf works with
+3) add function calls that work with the new usart
+    this includes control over motors using functions
